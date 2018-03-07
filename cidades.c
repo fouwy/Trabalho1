@@ -220,4 +220,4 @@ char** cidades_similar (vetor *vec, const char *nomecidade, int deltapop, int *n
   *nsimilares = j;
 
   return same_pop;
-}
+}    /*testetetestes*/
